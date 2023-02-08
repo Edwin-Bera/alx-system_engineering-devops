@@ -1,1 +1,13 @@
-0-cirrent_working_directory  prints out the absolute path name of the current directory
+#What Each script does
+  -*0-current_working_directory*  prints out the absolute path name of the current directory.
+  -*1-listit*  Displays contents of current directory
+  -*2bring_me_home* changes working directory to home directory
+  -*3-listfiles* Displays contents of the current directory in a long format
+  -*4-listmorefiles* Diplays contents of current directory including hidden file
+  -*5-listfiledigitonly* Display current directory content in long format, includeng hidden files, with used and group IDs
+  -*6-firstdirectory* creates a sub directory named 'my_first_directory' int the /tmp/ directory
+  -*7-movethatfile* moves betty from /tmp/ to /tmp/my_first_directory
+  -*8-firstdelete* deletes betty in /tmp/my_firs_directory
+  -9-firstdirdeletion* deletes /tmp/my_first_directory
+  -*10-back* goes back to the previous working directory
+  -*11-lists* 
