@@ -1,0 +1,15 @@
+#Shell permissions
+- *0-iambetty* switches the current user to betty
+- *1-who_am_i* prints the username of the current user
+- *2_groups*  prints groups the current user is part of
+- *3-new_owner* changes the owner f the file hello to betty
+- *4-hello* creates an empty file named hello
+- *5-execute* makes the file hello executable
+- *6-multiple_permissions* makes hello executable to the owner and group owner and gives other users read permissions
+- *7-everybody* gives every user permission to execute the file hello
+- *8-James_Bond* owner and groups will hvae no permissions to access hello but, other users will have full permissions
+- *9-John_Doe* sets mode of ile to ** -rwxr-x-wx **
+- *10-mirror_pemissions* sets mode of hello to the same as olleh's
+- *11-directories_permissions* -adds execute permission to subdirectoris of current directory for all users and groups
+- *12-directory_permissions* - creates directory _my_dir with the permissions 751
+- *13-change_group* changes group owner to school for hello
